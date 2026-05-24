@@ -5,9 +5,12 @@ pillow
 requests
 google-generativeai
 streamlit-js-eval
-
 langchain
 langchain-google-genai
 langchain-core
 langchain-community
+langchain-groq
 opencv-python-headless
+groq
+rembg
+onnxruntime
